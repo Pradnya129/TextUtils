@@ -1,6 +1,29 @@
 .App {
   text-align: center;
 }
+.textarea{
+  margin-top: 50px;
+}
+.card{
+  width:300px;
+  margin:50px auto;
+  border: 1px solid grey;
+  border-radius: 16px;
+  padding: 12px;
+}
+.alert-h{
+  height: 50px;
+}
+.card-img{
+  width:100%;
+  border-radius: 16px;
+}
+.d-none{
+  display: none;
+}
+.d-block{
+  display: block;
+}
 
 .App-logo {
   height: 40vmin;
